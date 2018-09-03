@@ -1,1 +1,11 @@
-aa
+certifi==2018.8.24
+chardet==3.0.4
+decorator==4.3.0
+future==0.16.0
+idna==2.7
+pyEthOS==1.4.1
+PyYAML==3.13
+requests==2.19.1
+six==1.11.0
+urllib3==1.23
+validators==0.12.2
