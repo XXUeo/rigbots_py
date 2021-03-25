@@ -4,7 +4,7 @@ decorator==4.3.0
 future==0.16.0
 idna==2.7
 pyEthOS==1.4.1
-PyYAML==3.13
+PyYAML==5.4
 requests==2.19.1
 six==1.11.0
 urllib3==1.23
